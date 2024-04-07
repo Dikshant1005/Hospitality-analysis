@@ -4,7 +4,7 @@ As part of the codebasics resume challenge, I have worked on this analysis proje
 
 Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
-Link to [Interactive Dashboard](https://bit.ly/3u0k6lM)
+Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmJlYTNlMDAtOWY3OS00MmFiLTk2NmYtZDQzMjQwNGM5MWY5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## Problem statement
